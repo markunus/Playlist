@@ -9,11 +9,11 @@ klik icon +
 import playlist from url
 insert url list
 
-https://bit.ly/bstream_tv
+https://bit.ly/bstream-tv
 
 or
 
-https://github.com/markunus/Playlist/blob/main/playlist.txt
+https://raw.githubusercontent.com/markunus/Playlist/refs/heads/main/playlist.txt
 
 and klik load..
 Import.
