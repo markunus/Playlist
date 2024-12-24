@@ -22,6 +22,6 @@ and klik load..
 
 Import.
 
-tutoroal video 👇👇
+tutorial video 👇👇
 
 https://www.dropbox.com/scl/fi/b7e34etiap8vjnb3ngk6c/km_20241224_1080p_60f_20241224_091212.mp4?rlkey=i5cd6ky8ml4oen1y14s7nd79q&raw=1
