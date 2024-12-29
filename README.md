@@ -25,4 +25,4 @@ Import.
 
 masih bingun nih lihat tutorial video nya👇👇
 
-https://www.dropbox.com/scl/fi/b7e34etiap8vjnb3ngk6c/km_20241224_1080p_60f_20241224_091212.mp4?rlkey=i5cd6ky8ml4oen1y14s7nd79q&raw=1
+https://www.dropbox.com/scl/fi/9edtityh4zyxha9eu06t1/km_20241224_720p_60f_20241229_135950.mp4?rlkey=o1co8zmdn2tpo2wuv4cryygq8&st=w7uooz2q&raw=1
