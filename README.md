@@ -9,6 +9,8 @@ klik icon +
 import playlist from url
 masukan salah satu url di bawah
 
+https://indonesia.com
+
 https://bit.ly/bstream-premium1
 
 https://bit.ly/bstream-tv
@@ -25,4 +27,4 @@ Import.
 
 masih bingun nih lihat tutorial video nya👇👇
 
-https://www.dropbox.com/scl/fi/9edtityh4zyxha9eu06t1/km_20241224_720p_60f_20241229_135950.mp4?rlkey=o1co8zmdn2tpo2wuv4cryygq8&st=w7uooz2q&raw=1
+https://www.dropbox.com/scl/fi/lm520cipwcoa5dcji8xgq/bstreamTV.mp4?rlkey=xdj6foc9qxpegbnp1p85gmtr3&st=dhddybt3&raw=1
