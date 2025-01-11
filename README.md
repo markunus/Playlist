@@ -11,19 +11,8 @@ masukan salah satu url di bawah
 
 https://indonesia.com
 
-https://bit.ly/bstream-premium1
-
-https://bit.ly/bstream-tv
-
-atau
-
-https://raw.githubusercontent.com/markunus/Playlist/refs/heads/main/playlist.txt
-
-https://raw.githubusercontent.com/markunus/Playlist/refs/heads/main/premium1.txt
-
 klik tombol load..
 
-Import.
 
 masih bingun nih lihat tutorial video nya👇👇
 
